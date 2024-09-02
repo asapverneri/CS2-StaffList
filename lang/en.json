@@ -1,0 +1,9 @@
+{
+  "stafflist.title": "{default}Admins:",
+  "stafflist.online": "{green}{0}",
+  "stafflist.offline": "{red}No admins online..",
+
+  "stafflist.nopermission": "{green}[StaffList] {red}You are missing permission {0}. Thats required to use this command.",
+  "stafflist.adminvisible": "{green}[StaffList] {default}You are now visible on the staff list.",
+  "stafflist.adminhidden": "{green}[StaffList] {default}You are now hidden from the staff list."
+} 
